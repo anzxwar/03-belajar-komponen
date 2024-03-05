@@ -34,6 +34,13 @@ Error terjadi karena ada kesalahan dalam perstrukturan kode:
 ![Screenshot](assets/S_4.png)
 perubahan yang dilakukan adalah mengganti {person} dengan {person.name} di dalam tag h1, karena kita ingin menampilkan nama dari objek person. Kemudian mengganti tanda kutip tunggal " ' " sebelum s Todos dengan " &apos ;".
 
+>**Soal 5** 
+Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person.Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini?
+
+![Screenshot](assets/S_5.png)  
+Tampilan berubah, dikarenakan kita memamnggil/impor 2 komponen, Galery dan Todolist.
+
+
 
 
 
