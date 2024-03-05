@@ -28,6 +28,13 @@ Error terjadi karena ada kesalahan dalam perstrukturan kode:
 - Kesalahan pada tag < br>, dimana harusnya ada '/' < br/>
 - Kesalahan penutupan pada tag < b> dan < i> tidak sesuai urutan.
 
+## Praktikum 3: Menggunakan JSX dinamis  
+
+>**Soal 4** 
+![Screenshot](assets/S_4.png)
+perubahan yang dilakukan adalah mengganti {person} dengan {person.name} di dalam tag h1, karena kita ingin menampilkan nama dari objek person. Kemudian mengganti tanda kutip tunggal " ' " sebelum s Todos dengan " &apos ;".
+
+
 
 
 
