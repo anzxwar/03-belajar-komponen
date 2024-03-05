@@ -40,6 +40,14 @@ Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek 
 ![Screenshot](assets/S_5.png)  
 Tampilan berubah, dikarenakan kita memamnggil/impor 2 komponen, Galery dan Todolist.
 
+>**Soal 6** 
+Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![Screenshot](assets/S_6.png)  
+untuk mengoper objek JavaScript di JSX, Anda harus membungkus objek tersebut dalam sepasang kurung kurawal lainnya:
+        src={`${baseUrl}${person.imageId}${person.imageSize}.jpg`}  
+tampilan berubah pada ukuran image yang telah berubah.  
+
 
 
 
