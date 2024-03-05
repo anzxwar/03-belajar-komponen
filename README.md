@@ -11,6 +11,12 @@
 
 Setelah membuat komponen kita dapat memangil komponen tersebut dengan cara mengimport (nama-komponen) lalu memasukannya kedalam faunction dengan memanggil nama komponen cth: "< profile/ >"
 
+## Praktikum 2: Mengimpor dan Mengekspor Komponen  
+>**Soal 2** Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+![Screenshot](assets/S_2.png)
+![Screenshot](assets/S_21.png)
+
+Kertika kita sudah membuat komponen dan mengekspor komponen tersebut, kita dapat memanggil komponen tersebut melalui folder komponen lain yang telah memanggil komponen sebelumnya, sehingga ketika kita memanggil komponen Gallery hasil yang ditampilkan sama dengan memanggil komponen sebelumnya (Profile).
 
 
 
