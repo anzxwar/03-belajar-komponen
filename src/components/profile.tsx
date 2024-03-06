@@ -1,8 +1,8 @@
 import Image from "next/image";
  
-export default function Page() {
+export default function Profile() {
   return (
-    <img
+    <Image
       src="https://i.imgur.com/MK3eW3Am.jpg"
       alt="Katherine Johnsonr"
       width={100}

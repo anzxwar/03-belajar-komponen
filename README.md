@@ -48,6 +48,9 @@ untuk mengoper objek JavaScript di JSX, Anda harus membungkus objek tersebut dal
         src={`${baseUrl}${person.imageId}${person.imageSize}.jpg`}  
 tampilan berubah pada ukuran image yang telah berubah.  
 
+##  Praktikum 4: Menggunakan Props
+
+
 
 
 
